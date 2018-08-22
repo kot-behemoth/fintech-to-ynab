@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+./bin/import teller --token $TELLER_TOKEN --ynab_account_id $YNAB_ACCOUNT_ID --teller_account_id $TELLER_ACCOUNT_ID
